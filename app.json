@@ -37,6 +37,9 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "CLERK_PUBLISHABLE_KEY": "your_clerk_publishable_key_here"
     }
   }
 }
